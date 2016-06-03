@@ -1,0 +1,59 @@
+a.logo { 
+	background:url('../images/credithelpnetwork.com.logo.png') 20px 0 no-repeat; width:274px; height:80px; 
+}
+
+.headerleft { 
+	padding-top:20px; 
+}
+
+.outerwraptop { 
+	background-image:url('../images/credithelpnetwork.com.pagebg-top.jpg'); 
+}
+
+.menu li a, .phonenum { 
+	color:#333; 
+}
+
+.menu li.lastitem a { 
+	color:#CD0308; 
+}
+
+.phonetext { 
+	color:#666; 
+}
+
+.phonenum { 
+	background-image:url('../images/credithelpnetwork.com.icon-phone.png'); 
+}
+
+.blue1 { 
+	color:#333; 
+}
+
+.orange1 { 
+	color:#CD0308; 
+}
+
+.footerwrap { 
+	background-color:#D2EA70; 
+}
+
+.ws_images { 
+	background-image:url('../images/credithelpnetwork.com.sliderbg.jpg'); 
+}
+
+#wowslider h2 { 
+	color:#333; 
+}
+
+#wowslider span { 
+	color:#666; 
+}
+
+.infoboxes span, .contentheader, .footerright span { 
+	color:#666; 
+}
+
+.midblue, .infoboxesbot h2, .infoboxes h2, .infoboxes h2 span, .infoboxestitle, .footerright li a { 
+	color:#333; 
+}
